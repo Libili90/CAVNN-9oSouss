@@ -1,0 +1,5 @@
+{
+  "name": "CAVNN 9osouss",
+  "description": "An application that takes a video URL from platforms like Instagram or TikTok, uses AI to generate a recipe, and allows you to save your favorite recipes.",
+  "requestFramePermissions": []
+}
